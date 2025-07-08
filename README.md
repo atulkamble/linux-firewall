@@ -65,3 +65,13 @@
 * **ufw** is a simplified wrapper for iptables on Ubuntu.
 * After modifying firewall settings, always test connectivity.
 
+## 👨‍💻 Author
+
+**Atul Kamble**
+
+- 🌐 [Website](https://www.atulkamble.in)
+- 🐙 [GitHub](https://github.com/atulkamble)
+- 🐦 [X](https://x.com/Atul_Kamble)
+- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
+- 📷 [Instagram](https://www.instagram.com/atuljkamble)
+
